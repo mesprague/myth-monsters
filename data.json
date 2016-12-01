@@ -596,5 +596,23 @@
     "eyes" : "unknown",
     "hobbies" : [
     ]
+  },
+  {
+    "name" : "Witch",
+    "mythology" : "traditional",
+    "eyes" : "2",
+    "hobbies" : [
+      "making potions",
+      "hexing children"
+    ]
+  },
+  {
+    "name" : "Minotaur",
+    "mythology" : "Greek",
+    "eyes" : "2",
+    "hobbies" : [
+      "running from Theseus",
+      "mazes"
+    ]
   }
 ]
