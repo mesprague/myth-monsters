@@ -596,5 +596,26 @@
     "eyes" : "unknown",
     "hobbies" : [
     ]
+  },
+  {
+    "name" : "Minotaur",
+    "mythology" : "greek",
+    "eyes" : "two",
+    "hobbies" : [
+      "making mazes",
+      "courting women",
+      "snorting"
+    ]
+  },
+  {
+    "name" : "Krampus",
+    "mythology" : "Austro-Bavarian",
+    "eyes" : "two",
+    "hobbies" : [
+      "licking things",
+      "wearing chains",
+      "stealing children",
+      "celebrating Krampusnacht"
+    ]
   }
 ]
