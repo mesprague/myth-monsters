@@ -607,12 +607,13 @@
     ]
   },
   {
-    "name" : "Minotaur",
+    "name" : "Cerberus",
     "mythology" : "Greek",
-    "eyes" : "2",
+    "eyes" : "6",
     "hobbies" : [
-      "running from Theseus",
-      "mazes"
+      "guarding the underworld",
+      "playing fetch with Hades",
+      "eating mortal flesh"
     ]
   }
 ]
